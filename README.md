@@ -82,10 +82,5 @@ GitHub  : https://github.com/ayhamdw
 
 LinkedIn: https://linkedin.com/in/ayhamdw
 
-
-💡 CONTRIBUTIONS WELCOME
-------------------------------------------------------------
-See CONTRIBUTING.md for setup instructions and contribution guidelines.
-
 ------------------------------------------------------------
 Crafted with precision and passion.
