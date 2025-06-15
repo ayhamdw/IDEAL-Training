@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/DataEntity/Data/AutoExcutedScripts/20250429.01.seed system setting table.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/DataEntity/Data/AutoExcutedScripts/20250503.01.alter user profile table.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/DataEntity/Data/AutoExcutedScripts/20250505.01. add cetegory table.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/DataEntity/Data/AutoExcutedScripts/20250505.02. add product and productcategories tables.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/DataEntity/Data/AutoExcutedScripts/20250513.01.add image column to product table.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/DataEntity/Data/Initial.sql" dialect="MySQL" />
+  </component>
+</project>

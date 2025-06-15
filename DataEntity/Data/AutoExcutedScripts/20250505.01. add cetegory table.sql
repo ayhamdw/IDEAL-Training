@@ -1,0 +1,10 @@
+﻿CREATE TABLE IF NOT EXISTS Category (
+    Id INT AUTO_INCREMENT NOT NULL PRIMARY KEY,
+    Name VARCHAR(255) NOT NULL,
+    Image VARCHAR(500),
+    ParentId INT,
+    Status TINYINT(1) NOT NULL,
+    CreatedAt DATETIME(3) NOT NULL,
+    UpdatedAt DATETIME(3) NOT NULL,
+    CONSTRAINT FK_CategoryCategory FOREIGN KEY (ParentId) REFERENCES Category(Id)
+);
